@@ -34,7 +34,7 @@
 
 - 📱 Tech stack: **Kotlin, MVVM, Coroutines, Socket.IO, FCM, Cloudinary**
 - 🔗 [GitHub Repo](https://github.com/Quan0414)
-- 🌐 [Demo Website](https://quan-dev.online)
+- 🌐 [Portfolio](https://quan-dev.online)
 
 ---
 
